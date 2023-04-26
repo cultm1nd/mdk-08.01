@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles_quest.css" rel="stylesheet">
+</head>
+<body>
+    <h1 id="head">Наши изделия</h1>
+    <div class="container text-center">
+        <div class="row" style="margin-bottom: 30px;">
+            <div class="col-3">
+                <img src="img/dog.jpg" alt="" srcset="" height="300px" width="400px" class="picture">
+            </div>
+            <div class="col-3">
+                <div class="flex_img">
+                <p id="headers">Lorem</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis facere ullam quos vitae unde molestias, 
+                    harum doloremque eius. Earum vel consequuntur temporibus aliquid omnis unde amet quibusdam debitis porro quod?</p>
+                    <button type="button" class="btn btn-link btn_color">Подробнее</button>
+            </div></div>
+            <div class="col-3">
+                <img src="img/dog.jpg" alt="" srcset="" height="300px" width="400px" class="picture">
+            </div>
+            <div class="col-3">
+                <div class="flex_img">
+                <p id="headers">Lorem</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis facere ullam quos vitae unde molestias, 
+                    harum doloremque eius. Earum vel consequuntur temporibus aliquid omnis unde amet quibusdam debitis porro quod?</p>
+                    <button type="button" class="btn btn-link btn_color">Подробнее</button>
+            </div></div>
+        </div>
+        <div class="row" style="margin-bottom: 30px;">
+            <div class="col-3">
+                <img src="img/dog.jpg" alt="" srcset="" height="300px" width="400px" class="picture">
+            </div>
+            <div class="col-3">
+                <div class="flex_img">
+                <p id="headers">Lorem</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis facere ullam quos vitae unde molestias, 
+                    harum doloremque eius. Earum vel consequuntur temporibus aliquid omnis unde amet quibusdam debitis porro quod?</p>
+                    <button type="button" class="btn btn-link btn_color">Подробнее</button>
+            </div></div>
+            <div class="col-3">
+               <img src="img/dog.jpg" alt="" srcset="" height="300px" width="400px" class="picture">
+            </div>
+            <div class="col-3">
+                <div class="flex_img">
+                <p id="headers">Lorem</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis facere ullam quos vitae unde molestias, 
+                harum doloremque eius. Earum vel consequuntur temporibus aliquid omnis unde amet quibusdam debitis porro quod?</p>
+                <button type="button" class="btn btn-link btn_color">Подробнее</button>
+            </div></div>
+        </div>
+    </div>
+    <button class="btn btn-primary" id="uslugi">Смотреть все услуги</button>
+    <div class="container">
+        <div class="row footer">
+            <div class="col-3">
+                <img src="img/dog.jpg" alt="" srcset="" width="700px" height="500px">
+            </div>
+            <div class="col-3 final_text">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid expedita reprehenderit cumque excepturi architecto dicta iusto unde. Vel voluptates explicabo cupiditate est exercitationem, odio officia autem, quo labore cum quisquam?</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis sequi laudantium eius corrupti est hic deleniti adipisci dignissimos ipsam enim laboriosam quod eaque aliquid sed, ad, doloremque natus aliquam voluptatibus.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
